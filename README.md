@@ -14,7 +14,7 @@ This is the profile you are looking for...
 <br>
 <a href="https://instagram.com/hemant_walia_20"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram" height="30"></a>
 <br>
-<a href="https://discord.gg/799489470142480426"><img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" /> </a>
+<a href="discordapp.com/users/799489470142480426"><img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" /> </a>
 <br>
 <a href="https://www.linkedin.com/in/hemant-walia"><img src="https://img.shields.io/badge/linkedin-%237289DA.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 <br>
