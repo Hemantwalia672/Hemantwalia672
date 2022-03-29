@@ -1,8 +1,75 @@
-- 👋 Hi, I’m @Hemantwalia672
-- 👀 I’m interested in Learning , Playing , 
-- 🌱 I’m currently learning Flutter SDK and Dart 
-- 💞️ I’m looking to collaborate on projects on Artificail Intelligence
-- 📫 How to reach me ...
+### <h1 align= "center"><b>Hello World! :earth_asia:</b></h1>
+
+This is the profile you are looking for...
+
+#### My Name is :man_technologist: *HEMANT WALIA*
+
+#### I am currently majoring in Computer Science & Engineering
+
+<hr>
+
+#### Reach me at 📫
+<p align="center">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=hemant.walia.672@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hemant.walia.672@gmail.com" height="30"></a>
+<br>
+<a href="https://instagram.com/hemant_walia_20"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram" height="30"></a>
+<br>
+<a href="https://discord.gg/Hemant_Walia#3237"><img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" /> </a>
+<br>
+<a href="https://www.linkedin.com/in/hemant-walia"><img src="https://img.shields.io/badge/linkedin-%237289DA.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+<br>
+</p>
+<hr>
+
+#### 🖥️ My Tech Stack
+$ .\Proficient-in
+- C
+- Python
+- Dart (Flutter 2)
+
+$ .\Moderately-Experienced-in
+- Java
+- C++
+
+$ .\Curious-about
+- Artificial Intelligence 
+- Machine Learning
+
+$ .\Version-Control
+- Git
+- GitHub
+
+$ .\Tools
+- VSCode
+- Visual Studio
+- Android Studio
+- Microsoft Excel
+
+$ .\Database
+- MySQL
+- SQLite
+- FireBase
+
+$ .\Systems
+- Windows 11
+- GNU/Linux
+
+$ .\Deployment
+- repl.it
+
+$ .\Other
+- REST APIs
+- 
+<hr>
+<hr>
+
+
+#### I would appreciate any suggestion and improvement on my projects 😄
+
+<hr>
+
+#### I conclude by a quote of great
+    > Be A GameChanger...
 
 <!---
 Hemantwalia672/Hemantwalia672 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
