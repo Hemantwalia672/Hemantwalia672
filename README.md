@@ -23,16 +23,16 @@ This is the profile you are looking for...
 
 #### 🖥️ My Tech Stack
 $ .\Proficient-in
-- C
-- Python
+- Java
 - Dart (Flutter 2)
+- C
 
 $ .\Moderately-Experienced-in
-- Java
+- Python
 - C++
 
 $ .\Curious-about
-- Artificial Intelligence 
+- App Development
 - Machine Learning
 
 $ .\Version-Control
@@ -41,13 +41,10 @@ $ .\Version-Control
 
 $ .\Tools
 - VSCode
-- Visual Studio
 - Android Studio
-- Microsoft Excel
 
 $ .\Database
 - MySQL
-- SQLite
 - FireBase
 
 $ .\Systems
