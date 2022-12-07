@@ -64,7 +64,7 @@ $ .\Other
 
 <hr>
 
-#### I conclude by a quote of great
+#### I conclude by a Quote
     > Be A GameChanger...
 
 <!---
